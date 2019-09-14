@@ -1,0 +1,3 @@
+This is a file that was created using the 'touch' command
+it showed up as a new file in the windows directory
+and will be added to the Git repository. 
